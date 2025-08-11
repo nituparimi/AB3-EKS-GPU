@@ -1,3 +1,5 @@
+8/10/2025
+https://aws.amazon.com/blogs/devops/simplify-amazon-eks-deployments-with-github-actions-and-aws-codebuild/
 4/19
 sudo yum install -y https://s3.us-west-2.amazonaws.com/amazon-ssm-us-west-2/latest/linux_amd64/amazon-ssm-agent.rpm
 sudo systemctl status amazon-ssm-agent
@@ -227,6 +229,7 @@ https://stackoverflow.com/questions/68775869/support-for-password-authentication
 --
 10/16
 used - https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-simple-s3.html
+
 
 
 
